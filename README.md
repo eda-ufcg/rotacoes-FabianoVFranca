@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Fabiano Victor de Franca Araujo
+* Email (@ccc): fabiano.victor.franca.araujo@ccc.ufcg.edu.br
+* Matrícula: 123210373
 
 # Roteiro: isAVL
 
